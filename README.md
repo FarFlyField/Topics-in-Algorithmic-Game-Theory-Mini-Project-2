@@ -3,4 +3,5 @@
  occur when the preference orderings of the agents are drawn from various probability distributions.
 
  To see some results, run:
- python main.py
+ python question_s_1_2.py
+ python question_s_3.py
